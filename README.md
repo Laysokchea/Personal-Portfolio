@@ -1,45 +1,73 @@
-# Personal-Portfolio
+# Welcome to your Lovable project
 
-For Better Experience Copy href link and paste in new tab and save that file in your local pc and link that. So in future if this links are not in this following website you can easily access from your saved ones.
+## Project info
 
-I will also link all the download files of this.
+**URL**: https://lovable.dev/projects/f8e0fa83-42c2-4627-9083-eaa067ab74b3
 
+## How can I edit this code?
 
-**Css Links:**
+There are several ways of editing your application.
 
-_Bootstrap :_
-https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+**Use Lovable**
 
-_animate :_
-https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
+Simply visit the [Lovable Project](https://lovable.dev/projects/f8e0fa83-42c2-4627-9083-eaa067ab74b3) and start prompting.
 
-_font awesome :_
-https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+Changes made via Lovable will be committed automatically to this repo.
 
-_Magnific popup (if needed we will use ) :_
-https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css
+**Use your preferred IDE**
 
-_slick slider (if needed we will use) :_
-https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css
-   
-**Js Links :**
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-_jQuery :_
-https://code.jquery.com/jquery-3.6.0.js
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-_Bootstrap :_
-https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+Follow these steps:
 
-_isotope for gallery section :_
-https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-_magnific-popup (if needed we will use) :_
-https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-_slick slider (if needed we will use) :_
-https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
+# Step 3: Install the necessary dependencies.
+npm i
 
-_wow :_
-https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
-    
-    
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/f8e0fa83-42c2-4627-9083-eaa067ab74b3) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
